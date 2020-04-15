@@ -48,3 +48,4 @@ Thumbs.db
 # Firebase settings must be proprietary.
 .env.ts
 .firebase/
+package-lock.json
