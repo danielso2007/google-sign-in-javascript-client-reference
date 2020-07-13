@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "http-server": "^0.12.1"
   }
 }
